@@ -8,14 +8,14 @@ Superstore Sales Report
 
 ### Key Findings:
 
-*The top three selling sub-categories are phone, chairs, and storage.
-*The category technology is generating the most revenue, with **$827K**.
-*The highest country in sales is **California**.
-*The most popular shipping method is **standard shipping**.
-* **Home office** segment customers are the highest purchasers.
-*Loyal customers are identified.
-*Yearly sales trend is showing growth for the past three years.
-*Sales are highest in the fourth quarter of the year.
+*The top three selling sub-categories are phone, chairs, and storage.  
+*The category technology is generating the most revenue, with **$827K**.  
+*The highest country in sales is **California**.  
+*The most popular shipping method is **standard shipping**.  
+* **Home office** segment customers are the highest purchasers.  
+*Loyal customers are identified.  
+*Yearly sales trend is showing growth for the past three years.  
+*Sales are highest in the fourth quarter of the year.  
 ### Recommendations:
 
 *Focus on marketing and promoting the top selling sub-categories.
